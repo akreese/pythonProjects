@@ -1,7 +1,6 @@
 from collections import defaultdict
 
 def longestEqualSequence(sequence):
-  print(sequence)
   sequence_dict = defaultdict(int)
   longest_sequence = 0
   current_count = 1

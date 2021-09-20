@@ -1,0 +1,1 @@
+Simple program will generate a random number each dice the program runs, and the users can use the dice repeatedly for as long as the player wants to. 
